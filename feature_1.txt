@@ -1,1 +1,2 @@
 add from feature2
+add from feature1
